@@ -5,7 +5,4 @@ header
 ---
 Simple edit here.
 
-Another edit made...
-
-
-PULL REQUESTTTTTTT
+PULL REQUEST
